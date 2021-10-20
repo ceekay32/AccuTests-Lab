@@ -26,7 +26,7 @@ $lastInsertId = $dbh->lastInsertId();
 if($lastInsertId)
 {
 
-echo "<script>alert('You have signup  Scuccessfully');</script>";
+echo "<script>alert('You have signed up  Successfully');</script>";
 }
 else
 {
@@ -65,7 +65,7 @@ echo "<script>alert('Email-id already exist. Please try again');</script>";
 	<div class="simple-page-wrap">
 		<div class="simple-page-logo animated swing">
 			
-				<span style="color: white">ODLMS</span>
+				<span style="color: white">AccuTests Lab</span>
 			
 		</div><!-- logo -->
 		

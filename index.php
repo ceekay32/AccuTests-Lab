@@ -38,14 +38,13 @@
 		<div class="header-top">
 			<div class="container">
 			   <div class="logo">
-				  <a href="index.php">ODLMS<span>lab</span></a>
+				  <a href="index.php">AccuTests<span>lab</span></a>
 				</div>
 				<div class="top-menu">
 					<span class="menu"><img src="images/nav.png" alt=""/> </span>
 						<ul>
 						<li><a href="index.php" class="active scroll">home</a></li>
-						<li><a href="#aboutus" class="scroll">about us</a></li>
-						<li><a href="#gallery" class="scroll">gallery</a></li>
+						
 						<li><a href="admin/login.php">Admin</a></li>
 						<li><a href="user/login.php">Users</a></li>
 						<li><a href="employee/login.php">Employee</a></li>
@@ -195,7 +194,7 @@
 	<div class="footer-section">
 						<div class="container">
 							<div class="footer-bottom">
-						<p>Online Diagnostic Lab Management System @ 2020</p>
+						<p></p>
 									</div>
 							<script type="text/javascript">
 						$(document).ready(function() {

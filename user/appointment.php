@@ -191,10 +191,10 @@ echo '<script>alert("Your Appointment has been taken successfully. Appointment n
                 <label for="exampleInputPassword1">Appointment Time</label>
                 <input type="time" class="form-control" id="apttime" name="apttime" required="true">
               </div>
-							<div class="form-group">
+							<!-- <div class="form-group">
 								<label for="exampleInputFile">Prescription(if any)</label>
 								<input type="file" id="pres" class="form-control" name="pres">
-							</div>
+							</div> -->
               <div class="form-group">
                 <label for="exampleInputFile" style="color: red" required="true">Select Test</label>
                 <table class="table table-bordered"> <thead> <tr> <th>#</th> <th>Test Name</th> <th>Test Price</th> <th>Action</th> </tr> </thead> <tbody>

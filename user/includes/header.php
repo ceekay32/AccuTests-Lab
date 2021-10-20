@@ -30,7 +30,7 @@ if (strlen($_SESSION['odlmsuid']==0)) {
 
     <a href="dashboard.php" class="navbar-brand">
       <span class="brand-icon"><i class="fa fa-gg"></i></span>
-      <span class="brand-name">ODLMS</span>
+      <span class="brand-name">AccuTests Lab</span>
     </a>
   </div><!-- .navbar-header -->
   

@@ -45,7 +45,7 @@ echo "<script>alert('Invalid Details');</script>";
 <html lang="en">
 <head>
 	
-	<title>ODLMS - Login Page</title>
+	<title>AccuTests Lab - Login Page</title>
 	
 
 	<link rel="stylesheet" href="libs/bower/font-awesome/css/font-awesome.min.css">
@@ -64,11 +64,11 @@ echo "<script>alert('Invalid Details');</script>";
 		<div class="simple-page-logo animated swing">
 			
 				<span style="color: white"><i class="fa fa-gg"></i></span>
-				<span style="color: white">ODLMS</span>
+				<span style="color: white">AccuTests Lab</span>
 			
 		</div><!-- logo -->
 		<div class="simple-page-form animated flipInY" id="login-form">
-	<h4 class="form-title m-b-xl text-center">Sign In With Your ODLMS Account</h4>
+	<h4 class="form-title m-b-xl text-center">Sign In With Your AccuTests Lab Account</h4>
 	<form action="#" method="post">
 		<div class="form-group">
 			<input type="text" class="form-control" placeholder="User Name" required="true" name="username" value="<?php if(isset($_COOKIE["user_login"])) { echo $_COOKIE["user_login"]; } ?>" >

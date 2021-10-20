@@ -35,7 +35,7 @@ echo "<script>alert('Email id or Mobile no is invalid');</script>";
 <html lang="en">
 <head>
 	
-	<title>ODLMS - Forgot Page</title>
+	<title>AccuTests Lab - Forgot Page</title>
 	
 
 	<link rel="stylesheet" href="libs/bower/font-awesome/css/font-awesome.min.css">
@@ -66,7 +66,7 @@ return true;
 		<div class="simple-page-logo animated swing">
 			
 				<span style="color: white"><i class="fa fa-gg"></i></span>
-				<span style="color: white">ODLMS</span>
+				<span style="color: white">AccuTests Lab</span>
 			
 		</div><!-- logo -->
 		<div class="simple-page-form animated flipInY" id="login-form">
